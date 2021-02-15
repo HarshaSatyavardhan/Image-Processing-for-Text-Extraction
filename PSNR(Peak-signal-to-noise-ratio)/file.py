@@ -1,6 +1,6 @@
 import cv2
-original1 = ''
-compressed1 = ''
+original1 = '' #file path
+compressed1 = '' #file path
 
 
 img = cv2.imread(original1, cv2.IMREAD_UNCHANGED)
